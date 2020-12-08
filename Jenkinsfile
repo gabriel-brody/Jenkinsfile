@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Cloning Git') {
       steps {
-        git ([url: 'https://github.com/gabriel-brody/jenkins-docker.git', branch: 'main'])
+        git ([url: 'https://github.com/gabriel-brody/Jenkinsfile.git', branch: 'master'])
       }
     }
     stage('Building gitbook'){
