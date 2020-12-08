@@ -1,8 +1,3 @@
----
-layout: default
-title: Reuniões
----
-
 ## Reuniões
 
 Data|Horário|Assunto|link
